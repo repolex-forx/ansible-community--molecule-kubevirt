@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "molecule-kubevirt",
+  "versions": [
+    {
+      "commit": "7987e80be1ebf312f43af9c4ad5056383ba94e1a",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:44:08.355245+00:00"
+    }
+  ]
+}
